@@ -1,0 +1,12 @@
+Domain Queried,Answer Type,Domain Name Returned,TTL,Unknown,Query Type,IP address
+1,www.google.com, ANSWER SECTION,www.google.com.,43,IN,AAAA,2404:6800:4002:805::2004
+1,www.google.com, ANSWER SECTION,www.google.com.,151,IN,A,172.217.161.4
+1,www.google.com, AUTHORITY SECTION,google.com.,30,IN,NS,ns3.google.com.
+1,www.google.com, AUTHORITY SECTION,google.com.,30,IN,NS,ns2.google.com.
+1,www.google.com, AUTHORITY SECTION,google.com.,30,IN,NS,ns4.google.com.
+1,www.google.com, AUTHORITY SECTION,google.com.,30,IN,NS,ns1.google.com.
+1,www.google.com, ADDITIONAL SECTION,ns1.google.com.,8,IN,A,216.239.32.10
+1,www.google.com, ADDITIONAL SECTION,ns2.google.com.,8,IN,A,216.239.34.10
+1,www.google.com, ADDITIONAL SECTION,ns3.google.com.,8,IN,A,216.239.36.10
+1,www.google.com, ADDITIONAL SECTION,ns4.google.com.,7,IN,A,216.239.38.10
+
